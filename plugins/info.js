@@ -52,7 +52,7 @@ module.exports = {
 
       await api.sendMessage(
             event.threadId,
-            { image: { url: "https://i.postimg.cc/VkHpvPNp/IMG-20260329-WA0384.jpg" }, caption: infoMessage || '' },
+            { image: { url: "https://i.postimg.cc/pVF8rw2m/IMG-20260329-WA0128.jpg" }, caption: infoMessage || '' },
             { quoted: event.message }
           );;
     } catch (error) {
