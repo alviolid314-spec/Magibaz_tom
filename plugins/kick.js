@@ -13,6 +13,7 @@ const isAdmin = global.isAdmin
         `${global.config.PREFIX}kick @username - Remove a tagged user from the group.`,
         `${global.config.PREFIX}kick (reply to a user) - Remove the replied user.`,
         `${global.config.PREFIX}remove @username - Alias for kick command.`,
+        `${global.config.PREFIX}kickall @all - Remove a tagged user from the group.`,
       ]
     },
 
