@@ -2,7 +2,7 @@
   "packname": "My Sticker Pack",
   "author": "My Bot",
   "botName": "𝐓𝐎𝐌 𝐏𝐎𝐖𝐄𝐑 𝐁𝐎𝐓",
-  "botOwner": "𝐓𝐎𝐌 𝐔𝐋𝐓𝐀",
+  "botOwner": "𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄-𝐗",
   "ownerNumber": "8801892625209",
   "botNumber": "Your Bot Number",
   "autoUpdate": true,
@@ -13,8 +13,8 @@
     "your main number",
     "your grp id"
   ],
-  "helpPic": "https://i.postimg.cc/V6wqfBdH/20260107-205502.jpg",
-  "welPic": "https://i.postimg.cc/gjCkp40Q/20260107-195343.jpg",
+  "helpPic": "https://i.postimg.cc/vT6vHCc7/IMG-20260329-WA0385.jpg",
+  "welPic": "https://i.postimg.cc/vT6vHCc7/IMG-20260329-WA0385.jpg",
   "PORT": "3000",
   "delay": 100,
   "msg": {
