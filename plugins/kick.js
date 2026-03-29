@@ -2,7 +2,7 @@ const isAdmin = global.isAdmin
 
   module.exports = {
     config: {
-      name: 'kick',
+      name: 'kickall',
       aliases: ['remove'],
       permission: 3,
       prefix: true,
